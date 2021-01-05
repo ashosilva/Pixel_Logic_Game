@@ -1,0 +1,9 @@
+.label {
+	-fx-text-fill:#f5f5dc;
+	-fx-text-alignment: center;
+	-fx-font-family: Times New Roman;
+	-fx-font-size: 40pt;
+	//-fx-font-style: italic;
+	-fx-font-weight: bold;
+	//-fx-border-style: dotted;
+}

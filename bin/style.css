@@ -1,0 +1,8 @@
+.label {
+   -fx-text-alignment: center;
+   -fx-font-family: serif;
+   -fx-font-size: 20pt;
+   //-fx-font-style: italic;
+   -fx-font-weight: bold;
+   //-fx-border-style: dotted;
+}
